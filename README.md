@@ -6,7 +6,7 @@
 - [ВКонтакте парсер сообщений][vk-message-parser]
 - [Авторегистрация аккаунтов][pw-autoreg]
 - [Бот для Perfect World][farm-xx-pw]
-- [Сократитель ссылок на Flask][link-shortener]
+- [Сокращение ссылок на Flask][link-shortener]
 
 
 **Имею опыт работы с инструментами:**
@@ -25,14 +25,21 @@
 **Связаться со мной можно здесь** :eyes:
 
 [<img src="https://raw.githubusercontent.com/Malkiz223/Malkiz223/master/assets/email.svg" alt="email" width="32"/>][email]
+[<img src="https://raw.githubusercontent.com/Malkiz223/Malkiz223/master/assets/vk.svg" alt="vk" width="32"/>][vk]
 [<img src="https://raw.githubusercontent.com/Malkiz223/Malkiz223/master/assets/telegram.svg" alt="telegram" width="32"/>][telegram]
-[<img src="https://raw.githubusercontent.com/Malkiz223/Malkiz223/master/assets/steam.svg" alt="steam" width="32"/>][steam]
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" width="32"/>][youtube]
+[<img src="https://raw.githubusercontent.com/Malkiz223/Malkiz223/master/assets/steam.svg" alt="steam" width="32"/>][steam]
 
 
-[![GithubStats](https://github-readme-stats.vercel.app/api?username=Malkiz223&hide=stars&count_private=true&show_icons=true&theme=blueberry&hide_border=true)](https://github.com/Malkiz223)
+[![GitHubStats](https://github-readme-stats.vercel.app/api?username=Malkiz223&hide=stars&count_private=true&show_icons=true&theme=blueberry&hide_border=true)](https://github.com/Malkiz223)
 [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Malkiz&show_icons=true&hide_border=true&theme=blueberry&layout=compact)](https://wakatime.com/@Malkiz)
 
+
+[send-sms-to-telegram]: https://github.com/Malkiz223/send-sms-to-telegram
+[vk-message-parser]: https://github.com/Malkiz223/vk-message-parser
+[pw-autoreg]: https://github.com/Malkiz223/pw-autoreg
+[farm-xx-pw]: https://github.com/Malkiz223/farm-xx-pw
+[link-shortener]: https://github.com/Malkiz223/link_shortener
 
 [python]: https://www.python.org
 [flask]: https://flask.palletsprojects.com
@@ -44,13 +51,8 @@
 [selenium]: https://www.selenium.dev
 [git]: https://git-scm.com
 
+[vk]: https://vk.com/malkiz
 [steam]: https://steamcommunity.com/id/malkiz
 [telegram]: https://t.me/malkiz223
 [email]: mailto:malkiz@yandex.ru
 [youtube]: https://www.youtube.com/c/malkiz%20channel
-
-[send-sms-to-telegram]: https://github.com/Malkiz223/send-sms-to-telegram
-[vk-message-parser]: https://github.com/Malkiz223/vk-message-parser
-[pw-autoreg]: https://github.com/Malkiz223/pw-autoreg
-[farm-xx-pw]: https://github.com/Malkiz223/farm-xx-pw
-[link-shortener]: https://github.com/Malkiz223/link_shortener
