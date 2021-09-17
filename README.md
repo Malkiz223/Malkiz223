@@ -12,7 +12,7 @@
 **Имею опыт работы с инструментами:**
 
 [<img src="https://raw.githubusercontent.com/Malkiz223/Malkiz223/master/assets/python.svg" alt="python" width="40"/>][python]
-[<img src="https://raw.githubusercontent.com/Malkiz223/Malkiz223/master/assets/flask.svg" alt="flask" width="40"/>][flask]
+[<img src="https://raw.githubusercontent.com/Malkiz223/Malkiz223/master/assets/flask.png" alt="flask" width="40"/>][flask]
 [<img src="https://raw.githubusercontent.com/Malkiz223/Malkiz223/master/assets/docker.svg" alt="docker" width="40"/>][docker]
 [<img src="https://raw.githubusercontent.com/Malkiz223/Malkiz223/master/assets/postgresql.svg" alt="postgresql" width="40"/>][postgres]
 [<img src="https://raw.githubusercontent.com/Malkiz223/Malkiz223/master/assets/redis.svg" alt="redis" width="40"/>][redis]
