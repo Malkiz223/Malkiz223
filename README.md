@@ -1,6 +1,6 @@
 ## Привет, меня зовут Дмитрий 👋
 
-### Личные проекты
+### Личные проекты :heart:
 
 - [Пересылка СМС в Телеграм][send-sms-to-telegram]
 - [ВКонтакте парсер сообщений][vk-message-parser]
@@ -11,24 +11,23 @@
 
 **Имею опыт работы с инструментами:**
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>][python]
-[<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>][flask]
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>][docker]
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>][postgres]
-[<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>][sqlite]
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>][redis]
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>][html]
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>][css]
-[<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>][selenium]
-[<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>][git]
+[<img src="https://raw.githubusercontent.com/Malkiz223/Malkiz223/master/assets/python.svg" alt="python" width="40"/>][python]
+[<img src="https://raw.githubusercontent.com/Malkiz223/Malkiz223/master/assets/flask.svg" alt="flask" width="40"/>][flask]
+[<img src="https://raw.githubusercontent.com/Malkiz223/Malkiz223/master/assets/docker.svg" alt="docker" width="40"/>][docker]
+[<img src="https://raw.githubusercontent.com/Malkiz223/Malkiz223/master/assets/postgresql.svg" alt="postgresql" width="40"/>][postgres]
+[<img src="https://raw.githubusercontent.com/Malkiz223/Malkiz223/master/assets/redis.svg" alt="redis" width="40"/>][redis]
+[<img src="https://raw.githubusercontent.com/Malkiz223/Malkiz223/master/assets/html5.svg" alt="html5" width="40"/>][html]
+[<img src="https://raw.githubusercontent.com/Malkiz223/Malkiz223/master/assets/css3.svg" alt="css3" width="40"/>][css]
+[<img src="https://raw.githubusercontent.com/Malkiz223/Malkiz223/master/assets/selenium.svg" alt="selenium" width="40"/>][selenium]
+[<img src="https://raw.githubusercontent.com/Malkiz223/Malkiz223/master/assets/git.svg" alt="git" width="40"/>][git]
 
 
-**Места, где вы можете меня найти** :eyes:
+**Связаться со мной можно здесь** :eyes:
 
-[<img align="left" alt="mailYa" width="36" src="https://raw.githubusercontent.com/MrLivixx/MrLivixx/master/assets/email.svg"/>][email]
-[<img align="left" alt="Telegram" width="36" src="https://raw.githubusercontent.com/MrLivixx/MrLivixx/master/assets/telegram.svg"/>][telegram]
-[<img align="left" alt="Steam" width="36" src="https://raw.githubusercontent.com/MrLivixx/MrLivixx/master/assets/steam.svg"/>][steam]
-[<img align="center" alt="youtube" width="36"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"/>][youtube]
+[<img src="https://raw.githubusercontent.com/Malkiz223/Malkiz223/master/assets/email.svg" alt="email" width="32"/>][email]
+[<img src="https://raw.githubusercontent.com/Malkiz223/Malkiz223/master/assets/telegram.svg" alt="telegram" width="32"/>][telegram]
+[<img src="https://raw.githubusercontent.com/Malkiz223/Malkiz223/master/assets/steam.svg" alt="steam" width="32"/>][steam]
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" width="32"/>][youtube]
 
 
 [![GithubStats](https://github-readme-stats.vercel.app/api?username=Malkiz223&hide=stars&count_private=true&show_icons=true&theme=blueberry&hide_border=true)](https://github.com/Malkiz223)
@@ -41,7 +40,6 @@
 [html]: https://www.w3.org/html
 [css]: https://www.w3schools.com/css
 [postgres]: https://www.postgresql.org
-[sqlite]: https://www.sqlite.org
 [redis]: https://redis.io
 [selenium]: https://www.selenium.dev
 [git]: https://git-scm.com
