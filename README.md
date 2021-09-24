@@ -16,8 +16,6 @@
 [<img src="https://raw.githubusercontent.com/Malkiz223/Malkiz223/master/assets/docker.svg" alt="docker" width="40"/>][docker]
 [<img src="https://raw.githubusercontent.com/Malkiz223/Malkiz223/master/assets/postgresql.svg" alt="postgresql" width="40"/>][postgres]
 [<img src="https://raw.githubusercontent.com/Malkiz223/Malkiz223/master/assets/redis.svg" alt="redis" width="40"/>][redis]
-[<img src="https://raw.githubusercontent.com/Malkiz223/Malkiz223/master/assets/html5.svg" alt="html5" width="40"/>][html]
-[<img src="https://raw.githubusercontent.com/Malkiz223/Malkiz223/master/assets/css3.svg" alt="css3" width="40"/>][css]
 [<img src="https://raw.githubusercontent.com/Malkiz223/Malkiz223/master/assets/selenium.svg" alt="selenium" width="40"/>][selenium]
 [<img src="https://raw.githubusercontent.com/Malkiz223/Malkiz223/master/assets/git.svg" alt="git" width="40"/>][git]
 
